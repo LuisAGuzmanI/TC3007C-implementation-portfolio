@@ -41,4 +41,4 @@ Este repositorio contiene las actividades y entregas para el portafolio de imple
 
 ## Momentos de retroalimentación
 * Reto
-    [* Privacidad y Seguridad de los Datos](./Retroalimentacion/Reto%20Privacidad%20y%20Seguridad%20de%20los%20Datos.pdf)
+    * [Privacidad y Seguridad de los Datos](./Retroalimentacion/Reto%20Privacidad%20y%20Seguridad%20de%20los%20Datos.pdf)
